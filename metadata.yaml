@@ -1,0 +1,37 @@
+_repo: No-Paiz-dos-Yankees_24190
+_version: 0.1.0
+alternative_title: No País dos Yankees
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caminha, Adolfo Ferreira
+    alias: Caminha, Adolpho Ferreira
+    birthdate: 1867
+    deathdate: 1897
+    gutenberg_agent_id: '26304'
+    url: http://www.gutenberg.org/2009/agents/26304
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Adolfo_Caminha
+    - http://pt.wikipedia.org/wiki/Adolfo_Caminha
+description: ''
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24190'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Ricardo F. Diogo, Rita Farinha and the Online Distributed
+  Proofreading Team at http://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: "Rio de Janeiro:\r\nDomingos de Magalhães--Editor\r\n54 Rua do Ouvidor\
+  \ 54\r\nLivraria Moderna\r\n1894"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+title: No Paiz dos Yankees
+url: http://www.gutenberg.org/ebooks/24190
